@@ -49,7 +49,7 @@ function salvarArquivo(nomeArquivo: string, conteudo: string) {
 }
 
 // URL da página web a ser analisada
-const url = "https://escoladedivas.com.br/vendas-abertas/";
+const url = "https://google.com/";
 
 // Chamar a função e extrair os recursos da URL
 extrairRecursos(url).then((recursos) => {
